@@ -62,7 +62,7 @@ public class Login extends JFrame {
 		
 		JButton btnNewButton = new JButton("LOGIN");
 		btnNewButton.setForeground(Color.BLACK);	
-		btnNewButton.setBackground(Color.BLACK);
+		btnNewButton.setBackground(Color.WHITE);
 		btnNewButton.setBounds(135, 264, 89, 23);
 		contentPane.add(btnNewButton);
 		
